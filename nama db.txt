@@ -1,0 +1,14 @@
+nama db = u736771851_dbpek
+user db = u736771851_adi
+host	= mysql.idhostinger.com
+pass	= Adicaem2
+
+nama tbl = tbl_subkon
+
+data sudah berhasil disimpan..
+Tampilan data sudah berhasil..
+Hapus sudah berhasil, "cuman kurang notif Apakah anda ingin menghapus data?"
+Form Edit sudah berhasil notif berhasil
+Pelajari cara include file... karena tidak berhasil..
+cara penempatan div, karena di form tampil data, nama login tidak bisa masuk di div header
+
